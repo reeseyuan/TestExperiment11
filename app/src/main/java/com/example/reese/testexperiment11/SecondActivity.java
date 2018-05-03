@@ -7,7 +7,7 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.Toast;
 
-import com.example.administrator.ex11.R;
+import com.example.reese.testexperiment11.R;
 
 public class SecondActivity  extends Activity {
     @Override

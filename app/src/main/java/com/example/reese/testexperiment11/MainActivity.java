@@ -6,7 +6,7 @@ import android.os.Bundle;
 import android.view.*;
 import android.widget.*;
 
-import com.example.administrator.ex11.R;
+import com.example.reese.testexperiment11.R;
 
 public class MainActivity extends Activity {
     @Override
